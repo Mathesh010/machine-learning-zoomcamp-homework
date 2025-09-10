@@ -1,2 +1,3 @@
 # machine-learning-zoomcamp-homework
-Repo for recording and submitting ML zoomcamp's homework
+Repo for recording and submitting Machine Learning zoomcamp's homework
+
